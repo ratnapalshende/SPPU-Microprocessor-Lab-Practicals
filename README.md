@@ -18,7 +18,7 @@ I have also attached screenshots of how to execute and run each program.
 3. **Important Note:** The output screenshots contain my name to discourage copying. Do not use the provided screenshots directly.
 4. Copy the code, understand it thoroughly, and execute it on your system.
 5. Capture your own screenshots of the output.
-6. Edit the provided PDF in the output folder, replacing the original screenshots with your own.
+6. Edit the provided PDF in the Practical_Assignments folder, replacing the original screenshots with your own.
 7. This process ensures active learning and prevents direct copying.
 
 ## Contributing
